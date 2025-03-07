@@ -50,8 +50,8 @@
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users/1282954845237809204" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Nkwenti&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discordapp.com/users/1126403035917189182" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Kunga&color=7356DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   
   <a href="mailto:abonghoderick@gmail.com" target="_blank">
